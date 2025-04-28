@@ -4,8 +4,7 @@ This is my home page! My name is Sam and I am a student at [Cal State Fullerton]
 
 ## Computer Science Projects
 
-[Visit my GitHub Pages site](https://samahorro.github.io/)
-
+My GitHub page is https://samahorro.github.io/.
 
 ### CPSC 120
 
